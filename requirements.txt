@@ -8,3 +8,9 @@ matplotlib
 bokeh==2.0.2
 umap
 requests
+ipykernel
+rpy2
+scipy
+stats
+sklearn
+pybase64
